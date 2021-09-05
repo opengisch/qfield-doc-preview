@@ -11,12 +11,27 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://qfield.org/case-studies/ecological-surveying.de.de/</loc>
+         <lastmod>2021-09-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://qfield.org/case-studies/ecological-surveying/</loc>
          <lastmod>2021-09-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://qfield.org/case-studies/geologic-mapping.de.de/</loc>
+         <lastmod>2021-09-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://qfield.org/case-studies/geologic-mapping/</loc>
+         <lastmod>2021-09-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://qfield.org/case-studies/lulc-mapping-fiji.de.de/</loc>
          <lastmod>2021-09-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -46,7 +61,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://qfield.org/case-studies/river-state-survey.de.de/</loc>
+         <lastmod>2021-09-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://qfield.org/case-studies/river-state-survey/</loc>
+         <lastmod>2021-09-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://qfield.org/case-studies/rwanda-rural-water.de.de/</loc>
          <lastmod>2021-09-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
